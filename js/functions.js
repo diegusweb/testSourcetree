@@ -7,4 +7,4 @@ window.open(pagina,"",opciones);
 
 //demo para cmprobar
 
-//brtach test
+//brtach test t245
