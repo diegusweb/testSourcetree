@@ -1,0 +1,382 @@
+body{
+	background-color: #000000;
+	margin: 0;
+	text-align: center;
+}
+.cont-fondo {
+	background-image: url(../img/bg-superhumanos.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+	height: 894px;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.pt .cont-fondo {
+	background-image: url(../img/Pt/bg_superhumanos.jpg);
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+
+
+
+.characterCreator
+{
+	height: 668px;
+	width: 448px;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	text-align: left;
+	padding-top: 111px;
+}
+
+.formEnviar
+{
+	min-height: 448px;
+	width: 445px;
+	background-image: url(../img/bg-form.png);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+}
+
+.enviarBtn{
+	width:166px;
+	height:35px;
+	background: url(../img/enviar.png) no-repeat;
+	cursor:pointer;
+}
+
+
+.enviarBtn:hover{
+background-position: 0 0px;
+}
+
+.enviarBtn01{
+width:107px;
+height:32px;
+background: url(../imgs/enviar.gif) no-repeat;
+cursor:pointer;
+margin-top:50px;
+margin-right:10px;
+}
+
+.enviarBtn01:hover{
+
+background-position: 0 -32px;
+}
+
+.ingresatus{
+	width:100%;
+	height:29px;
+	background: url(../imgs/ingresa_tus.png) no-repeat;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 17px;
+}
+
+input{
+	width:187px;
+	height:23px;
+	color:yellow;
+	font-family:arial;
+	font-size:11px;
+	color:#2c2c2c;
+	background-image: url(../img/bg-input.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	margin: 0px;
+	background-color: transparent;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	line-height: 23px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 5px;
+}
+.compartir .ico-fc {
+	background-image: url(../img/boton-fc.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	float: left;
+	height: 16px;
+	width: 16px;
+	cursor: pointer;
+	margin-right: 10px;
+}
+.botones .ico-twt {
+	background-image: url(../img/boton-twt.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	float: left;
+	height: 16px;
+	width: 16px;
+	cursor: pointer;
+	margin-right: 10px;
+}
+.compartir_form .ico-fc {
+	background-image: url(../img/boton-fc.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	float: left;
+	height: 16px;
+	width: 16px;
+	cursor: pointer;
+	margin-right: 10px;
+}
+.compartir_form .ico-twt {
+	background-image: url(../img/boton-twt.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	float: left;
+	height: 16px;
+	width: 16px;
+	cursor: pointer;
+}
+.compartir .ico-mail {
+	background-image: url(../img/boton-mail.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	float: left;
+	height: 16px;
+	width: 16px;
+	cursor: pointer;
+}
+
+
+.colIzq{
+	width:50%;
+	float:left;
+	margin-top:10px;
+}
+
+.colDer{
+	width:50%;
+	float:left;
+	margin-top:10px;
+}
+
+p{
+	font-family:arial;
+	font-size:12px;
+	color:#fff;
+	margin-bottom:5px;
+	line-height: normal;
+	margin-top: 11px;
+	text-align: left;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 5px;
+}
+
+.publica_desde{
+background: #2c2c2c url(../imgs/publica_desde.png) no-repeat;
+width:400px;
+height:116px;
+margin:auto;
+}
+
+.errores{
+color:#ff0000;
+font-family:arial;
+font-size:14px;
+font-weight:bold;
+}
+
+.Seguridad{
+width:400px;
+margin-top:20px;
+}
+
+.Box{
+width:313px;
+margin:auto;
+}
+.compartir {
+	clear: both;
+	height: 16px;
+	width: 70px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.compartir_form
+{
+	clear: both;
+	height: 16px;
+	width: 42px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.contenedor{
+	width:400px;
+	margin-right: auto;
+	margin-left: 23px;
+	clear: both;
+}
+
+.diarioResult{
+margin-top: 150px;
+text-align:center;
+margin:auto;
+}
+.boton-enviar {
+	height: 35px;
+	width: 166px;
+	margin-right: auto;
+	margin-left: auto;
+	clear: both;
+	float: none;
+	padding-top: 30px;
+}
+.cont-finished {
+	height: 558px;
+	width: 445px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 133px;
+}
+.bottom-finished {
+	background-image: url(../img/bg-botom-finished.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+	clear: both;
+	height: 98px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 445px;
+}
+.botones {
+	padding-right: 50px;
+	padding-left: 50px;
+	height: 35px;
+	padding-top: 8px;
+}
+
+.botones_savepost {
+	padding-right: 25px;
+	padding-left: 25px;
+	height: 35px;
+	padding-top: 8px;
+}
+
+.cont-imagen {
+	clear: both;
+	height: auto;
+	width: 445px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.btn-amigo {
+	background-image: url(../img/btn-amigo.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	display: block;
+	float: left;
+	height: 35px;
+	width: 166px;
+	cursor: pointer;
+}
+.btn-compartir {
+	background-image: url(../img/btn-compartir.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	float: right;
+	height: 35px;
+	width: 166px;
+	cursor: pointer;
+}
+.pt .btn-amigo {
+	background-image: url(../img/Pt/btn-amigo.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	display: block;
+	float: left;
+	height: 35px;
+	width: 166px;
+	cursor: pointer;
+}
+.pt .btn-compartir {
+	background-image: url(../img/Pt/btn-compartir.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	float: right;
+	height: 35px;
+	width: 166px;
+	cursor: pointer;
+}
+.cont-form {
+	clear: both;
+	height: auto;
+	width: 445px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 180px;
+}
+.botones .ico-twt-2 {
+	background-image: url(../img/boton-twt-2.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	display: block;
+	float: left;
+	height: 35px;
+	width: 166px;
+}
+.pt .botones .ico-twt-2 {
+	background-image: url(../img/Pt/boton-twt-2.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	display: block;
+	float: left;
+	height: 35px;
+	width: 166px;
+}
+.botones_savepost .ico-twt-2 {
+	background-image: url(../img/boton-twt-2.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	display: block;
+	float: left;
+	height: 35px;
+	width: 166px;
+}
+.pt .botones_savepost .ico-twt-2 {
+	background-image: url(../img/Pt/boton-twt-2.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	display: block;
+	float: left;
+	height: 35px;
+	width: 166px;
+}
+.botones .ico-mail-2 {
+	background-image: url(../img/boton-mail-2.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	display: block;
+	float: right;
+	height: 35px;
+	width: 166px;
+}
+.pt .botones .ico-mail-2 {
+	background-image: url(../img/Pt/boton-mail-2.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	display: block;
+	float: right;
+	height: 35px;
+	width: 166px;
+}
